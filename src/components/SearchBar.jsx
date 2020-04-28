@@ -27,6 +27,7 @@ const style = StyleSheet.create({
     height: 50,
     borderRadius: 5,
     marginHorizontal: 15,
+    marginBottom: 10,
   },
   input: {
     flex: 1,
